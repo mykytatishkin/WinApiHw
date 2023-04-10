@@ -1,0 +1,17 @@
+C:\Users\Mykyta\source\repos\WfThreadHw\WfThreadHw\bin\Debug\net6.0-windows\WfThreadHw.exe
+C:\Users\Mykyta\source\repos\WfThreadHw\WfThreadHw\bin\Debug\net6.0-windows\WfThreadHw.deps.json
+C:\Users\Mykyta\source\repos\WfThreadHw\WfThreadHw\bin\Debug\net6.0-windows\WfThreadHw.runtimeconfig.json
+C:\Users\Mykyta\source\repos\WfThreadHw\WfThreadHw\bin\Debug\net6.0-windows\WfThreadHw.dll
+C:\Users\Mykyta\source\repos\WfThreadHw\WfThreadHw\bin\Debug\net6.0-windows\WfThreadHw.pdb
+C:\Users\Mykyta\source\repos\WfThreadHw\WfThreadHw\obj\Debug\net6.0-windows\WfThreadHw.csproj.AssemblyReference.cache
+C:\Users\Mykyta\source\repos\WfThreadHw\WfThreadHw\obj\Debug\net6.0-windows\WfThreadHw.Form1.resources
+C:\Users\Mykyta\source\repos\WfThreadHw\WfThreadHw\obj\Debug\net6.0-windows\WfThreadHw.csproj.GenerateResource.cache
+C:\Users\Mykyta\source\repos\WfThreadHw\WfThreadHw\obj\Debug\net6.0-windows\WfThreadHw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mykyta\source\repos\WfThreadHw\WfThreadHw\obj\Debug\net6.0-windows\WfThreadHw.AssemblyInfoInputs.cache
+C:\Users\Mykyta\source\repos\WfThreadHw\WfThreadHw\obj\Debug\net6.0-windows\WfThreadHw.AssemblyInfo.cs
+C:\Users\Mykyta\source\repos\WfThreadHw\WfThreadHw\obj\Debug\net6.0-windows\WfThreadHw.csproj.CoreCompileInputs.cache
+C:\Users\Mykyta\source\repos\WfThreadHw\WfThreadHw\obj\Debug\net6.0-windows\WfThreadHw.dll
+C:\Users\Mykyta\source\repos\WfThreadHw\WfThreadHw\obj\Debug\net6.0-windows\refint\WfThreadHw.dll
+C:\Users\Mykyta\source\repos\WfThreadHw\WfThreadHw\obj\Debug\net6.0-windows\WfThreadHw.pdb
+C:\Users\Mykyta\source\repos\WfThreadHw\WfThreadHw\obj\Debug\net6.0-windows\WfThreadHw.genruntimeconfig.cache
+C:\Users\Mykyta\source\repos\WfThreadHw\WfThreadHw\obj\Debug\net6.0-windows\ref\WfThreadHw.dll
